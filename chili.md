@@ -10,7 +10,7 @@
 - 15 oz can kidney beans _(or 1.5 cups dried)_
 - 15 oz can pinto beans _(or 1.5 cups dried)_
 - 15 oz can black beans _(or 1.5 cups dried)_
-- ~24 oz jar marinara sauce
+- ~24 oz jar [marinara sauce](marinara.md)
 - 1 tsp cumin
 - 2 tsp chili powder
 - 1 tsp garlic powder
