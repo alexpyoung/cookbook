@@ -26,8 +26,8 @@ Use this method for hydrating dried beans.
 1. TBD
 
 ### Preparation
-1. Medium dice the bell peppers and onions.
-2. Finely chop the habaneros
+1. Small dice the bell peppers and onions.
+2. Mince the habaneros
 3. Wrap fresh herbs in cheese cloth and tie off
 
 ### Cooking
