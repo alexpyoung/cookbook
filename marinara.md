@@ -7,11 +7,11 @@
 - ~6 oz tomato paste
 - 1 tsp red pepper flakes
 - 2 habanero
-- 2 28 oz can crushed tomatoes
+- 2 28 oz can San Marzano crushed tomatoes
 - 1 tsp sugar
 - Parmesean rind
-- 2 bay leaves
-- Small handful of fresh rosemary
+- Bay leaves
+- Fresh rosemary, thyme, oregano, basil
 - Cheese cloth or herb container
 - Kosher salt to taste
 
@@ -28,7 +28,7 @@
 3. Add the garlic and cook for a couple more minutes
 3. Add a little more oil and bloom the chili peppers and habanero
 4. Quickly add the tomato paste and fry until slightly darker right before it sticks to the pot
-5. Add tomatoes, sugar, and fresh herbs
+5. Add tomatoes, sugar, parmesan, and contained herbs
 6. Simmer for 1-2 hours or until desired viscosity is reached
 7. Remove herbs and parmesean rind
 8. Add salt to taste
